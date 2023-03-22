@@ -50,3 +50,5 @@ const getInfo = async (event)=>{
 };
 
 submitBtn.addEventListener('click' , getInfo);
+
+
